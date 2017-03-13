@@ -1,0 +1,19 @@
+<group>
+	<int_slider>150</int_slider>
+	<float_slider>33.33</float_slider>
+	<toggle>0</toggle>
+<group/>
+	<Flock_controls>
+		<Seperation>2</Seperation>
+		<Alignment>2</Alignment>
+		<Cohesion>1.5</Cohesion>
+		<Tend_to_Place>0.1</Tend_to_Place>
+		<Randomness>0.4</Randomness>
+	</Flock_controls>
+<Flock_Control>
+		<Seperation>2.85</Seperation>
+		<Alignment>0.575</Alignment>
+	<Randomness>0</Randomness>
+		<Tend_To_Place>0</Tend_To_Place>
+	</Flock_Control>
+</group>
